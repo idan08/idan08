@@ -5,7 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idan08&label=Profile%20views&color=0e75b6&style=flat" alt="idan08" /> </p>
 
-- 💬 Ask me about **C|C++|PYTHON**
+-  I’m currently a student on my 2nd year in HIT - Holon Institute of Technology. Studying B.Sc Computer Science
+
+My Projects :
+
+Project in course “Object-oriented programming" - **AnimalGame**
 
 - 📫 How to reach me **idan082001@gmail.com**
 
