@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idan08&label=Profile%20views&color=0e75b6&style=flat" alt="idan08" /> </p>
 
--  I’m currently a student on my 2nd year in HIT - Holon Institute of Technology. Studying B.Sc Computer Science
+-  I’m currently a student on my 2nd year at HIT - Holon Institute of Technology. Studying B.Sc Computer Science
 
 My Projects :
 
