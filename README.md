@@ -11,7 +11,7 @@ My Projects :
 
 Project in course “Object-oriented programming" - **AnimalGame**
 </br>
-Python Project = **House-pricing-prediction**
+Python Project - **House-pricing-prediction**
 - 📫 How to reach me **idan082001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
